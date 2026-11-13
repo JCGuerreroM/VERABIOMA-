@@ -57,6 +57,6 @@ backend/
     └── routes/
         └── healthRoutes.js    # Definición de la ruta de salud
 
-## Estructura de carpetas
+## Integrantes del equipo 
  - Sara Juliana Guzman
  - Juan Carlos Guerrero
